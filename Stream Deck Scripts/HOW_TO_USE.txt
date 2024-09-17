@@ -1,0 +1,8 @@
+Copy this folder to the Jackbox Utility Updater folder. The structure should look like this:
+
+- /app
+- /data
+- /downloads
+- /STREAM DECK
+- /JackboxUtility.exe
+- ...

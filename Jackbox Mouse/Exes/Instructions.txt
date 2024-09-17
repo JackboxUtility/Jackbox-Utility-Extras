@@ -1,0 +1,6 @@
+The Jackbox Mouse is a script which makes your mouse pause the game with the right click and close the game with the middle click. This script will automatically close at the same time as the Utility/Megapicker and it'll only do these actions with the games from the launchers.
+
+To use, simply put "JackboxMouse.exe" in the same folder as the app you use it with.
+If you use the Megapicker, use the "Jackbox Megapicker Version".
+If you use the Jackbox Utility Updater (the normal Jackbox Utility download), use the "Jackbox Utility Updater Version".
+If you use the Jackbox Utility by itelf (without the updater), use the "Jackbox Utility Version".

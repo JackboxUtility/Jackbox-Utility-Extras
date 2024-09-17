@@ -1,0 +1,5 @@
+"Accesos Directos" contiene los accesos directos individuales de los juegos, mientras que "Accesos Directos Jackbox Mouse" también incluye el Jackbox Mouse, un script que hace que el mouse pause el juego con el clic derecho y lo cierre con el clic de la rueda. Este script se cerrará automáticamente al mismo tiempo que el juego si utilizas estos bats.
+
+Para usarlos, coloca la carpeta que quieras en la misma carpeta que el actualizador de la Utility
+Luego, crea un acceso directo del bat que quieras en tu escritorio.
+¡Decóralo con su respectivo icono y listo!

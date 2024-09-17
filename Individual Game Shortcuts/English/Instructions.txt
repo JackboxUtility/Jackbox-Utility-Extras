@@ -1,0 +1,5 @@
+"Shortcuts" contain the individual game shortcuts, while "Shortcuts Jackbox Mouse" also includes the Jackbox Mouse, a script which makes your mouse pause the game with the right click and close the game with the middle click. This script will automatically close at the same time as the game if you use these bats.
+
+To use, put whatever folder you want in the same folder as the Utility updater.
+Then, make a shortcut of whatever bat you want on your Desktop.
+Decorate it with its respective icon and you're done!
